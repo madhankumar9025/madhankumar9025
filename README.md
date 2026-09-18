@@ -1,9 +1,10 @@
-# Hi, I'm Madhankumar 👋
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=MADHANKUMAR&fontSize=42&fontAlignY=35&desc=AI%20Developer&descAlignY=58&animation=twinkling" alt="Madhankumar profile header" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/madhankumar9025">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Madhankumar;B.Tech+Artificial+Intelligence+and+Data+Science;AI+Developer" alt="Typing animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=700&lines=B.Tech+Artificial+Intelligence+and+Data+Science;AI+Developer;Python+%7C+Java;MK+AI+Assistant" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -22,11 +23,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a B.Tech student from Dindigul, Tamil Nadu, pursuing Artificial Intelligence and Data Science.
+I'm a B.Tech student from Dindigul, Tamil Nadu.
 
 - 🎓 **Degree:** B.Tech
 - 🏫 **College:** Christian College of Engineering and Technology, Oddanchatram
-- 📚 **Department:** Artificial Intelligence and Data Science
+- 📚 **Department:** B.Tech Artificial Intelligence and Data Science
 - 📅 **Year:** 2025–2029
 - 📍 **Location:** Dindigul, Tamil Nadu
 - 🎯 **Career Goal:** AI Developer
@@ -48,11 +49,11 @@ I'm a B.Tech student from Dindigul, Tamil Nadu, pursuing Artificial Intelligence
 
 ### 🤖 MK AI Assistant
 
-**MK AI Assistant** — an AI assistant project.
+**MK AI Assistant**
 
 <p>
   <a href="https://mk-ai-assistant.lovable.app">
-    <img src="https://img.shields.io/badge/Live%20Project-MK%20AI%20Assistant-0A66C2?style=for-the-badge" alt="MK AI Assistant" />
+    <img src="https://img.shields.io/badge/Live%20Project-MK%20AI%20Assistant-0A66C2?style=for-the-badge" alt="Open MK AI Assistant" />
   </a>
 </p>
 
@@ -61,11 +62,19 @@ I'm a B.Tech student from Dindigul, Tamil Nadu, pursuing Artificial Intelligence
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhankumar9025&show_icons=true&hide_border=true&rank_icon=github" alt="Madhankumar's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhankumar9025&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Madhankumar's GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhankumar9025&layout=compact&hide_border=true" alt="Madhankumar's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhankumar9025&layout=compact&hide_border=true&theme=transparent" alt="Madhankumar's top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=madhankumar9025&hide_border=true&theme=transparent" alt="Madhankumar's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhankumar9025&hide_border=true&area=true&custom_title=Madhankumar%27s%20Contribution%20Graph" alt="Madhankumar's GitHub contribution graph" />
 </p>
 
 ---
@@ -82,4 +91,8 @@ I'm a B.Tech student from Dindigul, Tamil Nadu, pursuing Artificial Intelligence
 
 <p align="center">
   <i>Thanks for visiting my profile!</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=madhankumar9025&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </p>
