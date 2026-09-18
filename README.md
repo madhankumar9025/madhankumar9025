@@ -65,13 +65,19 @@ I'm a B.Tech student from Dindigul, Tamil Nadu.
   <img src="https://github-readme-stats.vercel.app/api?username=madhankumar9025&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Madhankumar's GitHub statistics" />
 </p>
 
+### 💻 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhankumar9025&layout=compact&hide_border=true&theme=transparent" alt="Madhankumar's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhankumar9025&layout=compact&hide_border=true&theme=transparent" alt="Madhankumar's most used programming languages" />
 </p>
+
+### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=madhankumar9025&hide_border=true&theme=transparent" alt="Madhankumar's GitHub contribution streak" />
 </p>
+
+### 📈 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhankumar9025&hide_border=true&area=true&custom_title=Madhankumar%27s%20Contribution%20Graph" alt="Madhankumar's GitHub contribution graph" />
